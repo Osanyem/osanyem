@@ -1,6 +1,6 @@
 # Hello!  
 
-I'm Osanyem, a software developer and educator living in Toronto, Ontario.  
+I'm Osanyem, a software developer living in Toronto, Ontario.  
 
 ## Quick Facts  
 - Final-year BSc. Computer Science Co-op student at Toronto Metropolitan University (CGPA: 3.87/4.33).  
