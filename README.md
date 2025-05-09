@@ -3,10 +3,10 @@
 I'm Osanyem, a software developer living in Toronto, Ontario.  
 
 ## Quick Facts  
-- Final-year BSc. Computer Science Co-op student at Toronto Metropolitan University (CGPA: 3.87/4.33).  
-- 2 years of experience in software development (co-op), spanning quality assurance and feature implementation.  
-- Full-stack developer with a proven record of delivering high-engagement features, increasing user retention by 7%.  
-- Proficient in Java, Python, JavaScript, Elixir, and frameworks like Spring Boot, React, NodeJS, and Django.  
+- Computer Science graduate (Co-op) from Toronto Metropolitan University with a GPA of 3.88 out of 4.33 and a strong record of academic and industry success.
+- 2 years of experience delivering production features and automating QA for high-scale applications, including a sportsbook app with more than 1 million downloads.
+- Built user-facing features that increased 30-day retention by 7 percent for 100,000 users and developed data services processing over 50,000 daily events.
+- Proficient in Java, Python, JavaScript, Elixir, and frameworks such as Spring Boot, React, and Django, combining backend depth with full-stack capability.
 
 ## Projects  
 
