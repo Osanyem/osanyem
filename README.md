@@ -10,10 +10,10 @@ I'm Osanyem, a software developer living in Toronto, Ontario.
 
 ## Projects  
 
-- [Slap - Learning Management System](https://github.com/Osanyem/slap-backend), a backend API for a learning management system, built with Java, Spring Boot, and PostgreSQL.  
-- [Citi-Estate](https://github.com/Osanyem/Citi-Estate), a responsive web platform for listing, renting, and buying real estate, built with HTML, JavaScript, PHP, and SQL.  
-- [Bingo](https://github.com/Osanyem/Bingo), a single-player game of Bingo implemented using C programming language.  
-- [War-Card-Game](https://github.com/Osanyem/War-Card-Game), a single-player iOS war card game built using Swift programming language.  
+- [Slap - Learning Management System](https://github.com/Osanyem/slap-backend), _a backend API for a learning management system, built with Java, Spring Boot, and PostgreSQL._  
+- [Citi-Estate](https://github.com/Osanyem/Citi-Estate), _a responsive web platform for listing, renting, and buying real estate, built with HTML, JavaScript, PHP, and SQL._  
+- [Bingo](https://github.com/Osanyem/Bingo), _a single-player game of Bingo implemented using C programming language._  
+- [War-Card-Game](https://github.com/Osanyem/War-Card-Game), _a single-player iOS war card game built using Swift programming language._
 
 ## Contact Me  
 
