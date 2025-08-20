@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-```
-Your GitHub contribution graph and language stats will appear here
-when you copy this to your actual README.md file
-```
-
----
-
 ## 🌱 Currently Working On
 - **AI-powered code review tools** using LLM function calling
 - **Distributed system design patterns** for scalable applications  
