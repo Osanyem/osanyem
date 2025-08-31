@@ -1,5 +1,5 @@
 # Hi, I'm Osanyem 👋
-> Building the future of developer productivity through AI-powered tools and intelligent automation
+> Building the future 
 
 ## About Me
 - **Software Engineer** focused on agentic workflows, LLM applications, and developer productivity tools
@@ -51,4 +51,4 @@ I'm actively seeking opportunities to collaborate on AI/ML applications, backend
 
 ---
 
-*"The best way to predict the future is to build it – especially when AI can help."*
+*"The best way to predict the future is to build it"*
