@@ -32,6 +32,7 @@
  **Software Engineer Intern @ theScore** 
 
 **Software Quality Assurance Analyst Intern @ theScore**
+
 **Quality Assurance Automation Engineer Intern @ theScore**
 
 
