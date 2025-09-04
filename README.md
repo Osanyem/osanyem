@@ -27,17 +27,13 @@
 
 ## 💼 Professional Experience
 
-### **Software Engineer @ MPAC** *(Current)*
-- Built React components meeting WCAG 2.1 AA standards and Node.js REST APIs with **99.5% uptime**
-- Developed full-stack features impacting thousands of daily users
+ **Software Engineer @ MPAC** *(Current)*
 
-### **Software Engineer Intern @ theScore** 
-- Engineered personalized features improving retention by **7%**
-- Implemented Kafka-to-PostgreSQL pipelines and Datadog monitoring
+ **Software Engineer Intern @ theScore** 
 
-### **Software Test Engineer Intern @ theScore**
-- Contributed to ESPN Bet launch, automated **300+ test cases**
-- Reduced deployment times by **15%** through pipeline optimization
+**Software Quality Assurance Analyst Intern @ theScore**
+**Quality Assurance Automation Engineer Intern @ theScore**
+
 
 ---
 
