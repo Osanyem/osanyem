@@ -34,6 +34,7 @@
 **Software Quality Assurance Analyst Intern @ theScore**
 
 **Quality Assurance Automation Engineer Intern @ theScore**
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=osanyem&show_icons=true&theme=prussian)
 
 
 ---
